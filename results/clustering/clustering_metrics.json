@@ -1,0 +1,233 @@
+[
+  {
+    "method": "tfidf",
+    "algo": "kmeans4",
+    "inertia": 4760.254030323653,
+    "silhouette": 0.014027969658517695,
+    "db_score": 10.468742791277007
+  },
+  {
+    "method": "tfidf",
+    "algo": "kmeans5",
+    "inertia": 4734.190755048156,
+    "silhouette": 0.015370254181493865,
+    "db_score": 9.037666955455439
+  },
+  {
+    "method": "tfidf",
+    "algo": "kmeans6",
+    "inertia": 4713.078833210111,
+    "silhouette": 0.01804799365960533,
+    "db_score": 8.44496718146747
+  },
+  {
+    "method": "tfidf",
+    "algo": "kmeans7",
+    "inertia": 4703.999620239998,
+    "silhouette": 0.017984241105122145,
+    "db_score": 8.500331666105321
+  },
+  {
+    "method": "tfidf",
+    "algo": "kmeans8",
+    "inertia": 4677.309725315682,
+    "silhouette": 0.02169502880163675,
+    "db_score": 7.831295155557454
+  },
+  {
+    "method": "tfidf",
+    "algo": "kmeans9",
+    "inertia": 4654.534634050927,
+    "silhouette": 0.025098741345443404,
+    "db_score": 7.206826717453426
+  },
+  {
+    "method": "tfidf",
+    "algo": "kmeans10",
+    "inertia": 4633.177374103305,
+    "silhouette": 0.027229646191109874,
+    "db_score": 6.960207834229918
+  },
+  {
+    "method": "tfidf",
+    "algo": "dbscan0.3",
+    "silhouette": -0.008206608985899243,
+    "db_score": 1.7312253883647473,
+    "n_noise": 4967
+  },
+  {
+    "method": "tfidf",
+    "algo": "dbscan0.4",
+    "silhouette": -0.06895676034383115,
+    "db_score": 1.9939402913476223,
+    "n_noise": 4685
+  },
+  {
+    "method": "tfidf",
+    "algo": "dbscan0.5",
+    "silhouette": -0.04894359398307747,
+    "db_score": 2.4071453822709894,
+    "n_noise": 3874
+  },
+  {
+    "method": "tfidf",
+    "algo": "dbscan0.6",
+    "silhouette": -0.03980481195429979,
+    "db_score": 3.21835829553376,
+    "n_noise": 2300
+  },
+  {
+    "method": "w2v",
+    "algo": "kmeans4",
+    "inertia": 30.82984161376953,
+    "silhouette": 0.06576050817966461,
+    "db_score": 3.7975171070605156
+  },
+  {
+    "method": "w2v",
+    "algo": "kmeans5",
+    "inertia": 30.181968688964844,
+    "silhouette": 0.036090631037950516,
+    "db_score": 3.6863381910511643
+  },
+  {
+    "method": "w2v",
+    "algo": "kmeans6",
+    "inertia": 29.610376358032227,
+    "silhouette": 0.04345572367310524,
+    "db_score": 3.3990029335989878
+  },
+  {
+    "method": "w2v",
+    "algo": "kmeans7",
+    "inertia": 29.14303207397461,
+    "silhouette": 0.05017705261707306,
+    "db_score": 3.3782006746803668
+  },
+  {
+    "method": "w2v",
+    "algo": "kmeans8",
+    "inertia": 28.860126495361328,
+    "silhouette": 0.05594777688384056,
+    "db_score": 3.257093742527596
+  },
+  {
+    "method": "w2v",
+    "algo": "kmeans9",
+    "inertia": 28.47138214111328,
+    "silhouette": 0.05836639925837517,
+    "db_score": 3.1247530541361748
+  },
+  {
+    "method": "w2v",
+    "algo": "kmeans10",
+    "inertia": 28.06555938720703,
+    "silhouette": 0.06149109825491905,
+    "db_score": 3.1499688975419673
+  },
+  {
+    "method": "w2v",
+    "algo": "dbscan0.3",
+    "silhouette": null,
+    "db_score": null,
+    "n_noise": 0
+  },
+  {
+    "method": "w2v",
+    "algo": "dbscan0.4",
+    "silhouette": null,
+    "db_score": null,
+    "n_noise": 0
+  },
+  {
+    "method": "w2v",
+    "algo": "dbscan0.5",
+    "silhouette": null,
+    "db_score": null,
+    "n_noise": 0
+  },
+  {
+    "method": "w2v",
+    "algo": "dbscan0.6",
+    "silhouette": null,
+    "db_score": null,
+    "n_noise": 0
+  },
+  {
+    "method": "sbert",
+    "algo": "kmeans4",
+    "inertia": 3354.803955078125,
+    "silhouette": 0.11473072320222855,
+    "db_score": 3.66197983021604
+  },
+  {
+    "method": "sbert",
+    "algo": "kmeans5",
+    "inertia": 3302.058837890625,
+    "silhouette": 0.05572919175028801,
+    "db_score": 3.7335510585548533
+  },
+  {
+    "method": "sbert",
+    "algo": "kmeans6",
+    "inertia": 3228.0185546875,
+    "silhouette": 0.07118228822946548,
+    "db_score": 3.6666953463572014
+  },
+  {
+    "method": "sbert",
+    "algo": "kmeans7",
+    "inertia": 3184.255859375,
+    "silhouette": 0.06873264163732529,
+    "db_score": 3.580844062512316
+  },
+  {
+    "method": "sbert",
+    "algo": "kmeans8",
+    "inertia": 3143.183349609375,
+    "silhouette": 0.07292653620243073,
+    "db_score": 3.544875072382488
+  },
+  {
+    "method": "sbert",
+    "algo": "kmeans9",
+    "inertia": 3102.846923828125,
+    "silhouette": 0.07585826516151428,
+    "db_score": 3.385208382504098
+  },
+  {
+    "method": "sbert",
+    "algo": "kmeans10",
+    "inertia": 3068.177978515625,
+    "silhouette": 0.08366645127534866,
+    "db_score": 3.532429599288598
+  },
+  {
+    "method": "sbert",
+    "algo": "dbscan0.3",
+    "silhouette": -0.15177591145038605,
+    "db_score": 2.1170828831481736,
+    "n_noise": 1197
+  },
+  {
+    "method": "sbert",
+    "algo": "dbscan0.4",
+    "silhouette": 0.07778490334749222,
+    "db_score": 3.2933971397794224,
+    "n_noise": 356
+  },
+  {
+    "method": "sbert",
+    "algo": "dbscan0.5",
+    "silhouette": null,
+    "db_score": null,
+    "n_noise": 55
+  },
+  {
+    "method": "sbert",
+    "algo": "dbscan0.6",
+    "silhouette": null,
+    "db_score": null,
+    "n_noise": 5
+  }
+]

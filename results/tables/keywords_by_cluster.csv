@@ -1,0 +1,5 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+patient,study,high,use,result,increase,group,disease,clinical,associate,treatment,level,risk,year,method
+health,use,study,high,year,ci,country,peru,result,risk,age,low,method,associate,patient
+patient,study,infection,use,treatment,result,disease,tb,test,high,case,sample,tuberculosis,isolate,method
+study,high,population,use,specie,peru,malaria,result,analysis,sample,peruvian,human,area,vivax,region
