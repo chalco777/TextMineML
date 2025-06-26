@@ -24,32 +24,32 @@ import argparse
 import re
 from pathlib import Path
 
-import nltk
+import nltk #toolkit de procesamiento de lenguaje natural
 import pandas as pd
-from nltk.corpus import stopwords
+from nltk.corpus import stopwords #lista de stop-words en varios idiomas
+import unicodedata #quitar acentos, transforma todo a caracteres unicode
 
 # Rutas por defecto
 DEFAULT_INPUT = Path("../results/tables/articulos_preprocesados_con_editorial.csv")
-DEFAULT_OUTPUT = Path("../results/tables/articulos_preprocessed_no_link_date.csv")
+DEFAULT_OUTPUT = Path("../results/tables/articulos_preprocessed_cleaned_no_link_date.csv")
 
-import unicodedata
 
 def strip_accents(text: str) -> str:
     """
     Convierte caracteres acentuados a su equivalente ASCII:
     'á'→'a', 'ñ'→'n', etc.
     """
-    text_norm = unicodedata.normalize("NFKD", text)
-    return "".join(ch for ch in text_norm if not unicodedata.combining(ch))
+    text_norm = unicodedata.normalize("NFKD", text) # descompone cada caracter en su forma base mas la carga diacritica
+    return "".join(ch for ch in text_norm if not unicodedata.combining(ch)) # me quedo solo con los caracteres que no son combinaciones (diacríticos)
 
 
 def preprocess_text(text: str, stop_words: set[str]) -> str:
     """Minúsculas, quita acentos, limpia signos, tokeniza y filtra stop-words."""
     text = text.lower()
-    text = strip_accents(text)                     # ⇦ NUEVO PASO
-    text = re.sub(r"[^a-z0-9\s]", " ", text)       # signos y caracteres especiales
-    tokens = text.split()
-    tokens = [tok for tok in tokens if tok not in stop_words and len(tok) > 1]
+    text = strip_accents(text)                     # quita acentos usando nuestra función
+    text = re.sub(r"[^a-z0-9\s]", " ", text)       # signos y caracteres especiales, los reemplaza por espacio
+    tokens = text.split()                          # determina que los tokens serán separados por espacios
+    tokens = [tok for tok in tokens if tok not in stop_words and len(tok) > 1] # filtra stop-words y tokens de un solo carácter
     return " ".join(tokens)
 
 
@@ -64,7 +64,7 @@ def main(input_path: Path, output_path: Path) -> None:
     # Leer CSV
     df = pd.read_csv(input_path, sep=";", quotechar='"', encoding="utf-8")
 
-    # Procesar columnas requeridas
+    # Aplico el preprocesamiento a las columnas requeridas
     df["authors_processed"] = (
         df["authors"].astype(str).apply(lambda x: preprocess_text(x, stop_words))
     )
@@ -78,7 +78,7 @@ def main(input_path: Path, output_path: Path) -> None:
         df["abstract_clean"].astype(str).apply(lambda x: preprocess_text(x, stop_words))
     )
 
-    # Verificación de mayúsculas restantes
+    # Acá de modo importante verifico que no queden mayúsculas en las columnas procesadas. 
     upp_cols = ["authors_processed", "publisher_processed",
                 "title_clean_processed", "abstract_clean_processed"]
     for col in upp_cols:
