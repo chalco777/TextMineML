@@ -5,7 +5,7 @@ Este proyecto implementa un pipeline de minería de texto usando artículos acad
 ## 🔁 Flujo de trabajo actual
 
 1. **Recolección y preprocesamiento**
-   - Se extraen artículos mediante web scraping (https://repositorio.upch.edu.pe).
+   - Se extraen artículos mediante web scraping (https://repositorio.upch.edu.pe). El código está en `01_recoleccion_web_scrapping.ipynb`
    - Los textos se limpian (minúsculas, eliminación de signos de puntuación, stopwords, etc.) con `02_preprocess.py`.
    - Los resultados se guardan en `results/tables/`.
 
@@ -22,7 +22,7 @@ Este proyecto implementa un pipeline de minería de texto usando artículos acad
     TextMineML/
     ├── models/ # Modelos preentrenados almacenados localmente
     ├── notebooks/ # Notebooks para exploración y pruebas
-    ├── results/ # Resultados de procesamiento y vectorización
+    ├── results/ # Resultados de artículos crudos del web scraping, procesamiento y vectorización
     ├── scripts/ # Scripts del pipeline
     └── README.md
 
