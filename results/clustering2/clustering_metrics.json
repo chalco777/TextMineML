@@ -1,0 +1,254 @@
+[
+  {
+    "method": "sbert",
+    "algo": "kmeans4",
+    "inertia": 3334.8818359375,
+    "silhouette": 0.06479717046022415,
+    "db_score": 4.187903217892489
+  },
+  {
+    "method": "sbert",
+    "algo": "kmeans5",
+    "inertia": 3261.049072265625,
+    "silhouette": 0.06520337611436844,
+    "db_score": 3.883160113960556
+  },
+  {
+    "method": "sbert",
+    "algo": "kmeans6",
+    "inertia": 3223.99267578125,
+    "silhouette": 0.05332289636135101,
+    "db_score": 3.8383543289716413
+  },
+  {
+    "method": "sbert",
+    "algo": "kmeans7",
+    "inertia": 3138.508056640625,
+    "silhouette": 0.08075639605522156,
+    "db_score": 3.6103990306614926
+  },
+  {
+    "method": "sbert",
+    "algo": "kmeans8",
+    "inertia": 3109.04833984375,
+    "silhouette": 0.07559840381145477,
+    "db_score": 3.6038930387709143
+  },
+  {
+    "method": "sbert",
+    "algo": "kmeans9",
+    "inertia": 3077.0263671875,
+    "silhouette": 0.08072687685489655,
+    "db_score": 3.5762313297633366
+  },
+  {
+    "method": "sbert",
+    "algo": "kmeans10",
+    "inertia": 3035.84765625,
+    "silhouette": 0.0777466744184494,
+    "db_score": 3.454374677960998
+  },
+  {
+    "method": "sbert",
+    "algo": "dbscan0.3",
+    "silhouette": -0.1543864756822586,
+    "db_score": 2.1077433538518595,
+    "n_noise": 1181
+  },
+  {
+    "method": "sbert",
+    "algo": "dbscan0.4",
+    "silhouette": 0.03801920637488365,
+    "db_score": 2.9206096544027247,
+    "n_noise": 334
+  },
+  {
+    "method": "sbert",
+    "algo": "dbscan0.5",
+    "silhouette": null,
+    "db_score": null,
+    "n_noise": 58
+  },
+  {
+    "method": "sbert",
+    "algo": "dbscan0.6",
+    "silhouette": null,
+    "db_score": null,
+    "n_noise": 6
+  },
+  {
+    "method": "sbert",
+    "algo": "hdbscan",
+    "silhouette": -0.09252846240997314,
+    "db_score": 2.5558040410700733,
+    "n_noise": 1699
+  },
+  {
+    "method": "tfidf",
+    "algo": "kmeans4",
+    "inertia": 4775.966488278399,
+    "silhouette": 0.013687555836612682,
+    "db_score": 10.276224356589568
+  },
+  {
+    "method": "tfidf",
+    "algo": "kmeans5",
+    "inertia": 4757.635695417262,
+    "silhouette": 0.01419974899647312,
+    "db_score": 9.666281358474095
+  },
+  {
+    "method": "tfidf",
+    "algo": "kmeans6",
+    "inertia": 4734.315407885879,
+    "silhouette": 0.016474376899199644,
+    "db_score": 8.788707919748562
+  },
+  {
+    "method": "tfidf",
+    "algo": "kmeans7",
+    "inertia": 4712.112794591774,
+    "silhouette": 0.019429892801397067,
+    "db_score": 8.029641333025813
+  },
+  {
+    "method": "tfidf",
+    "algo": "kmeans8",
+    "inertia": 4698.478781860133,
+    "silhouette": 0.021729990887652376,
+    "db_score": 7.894861494211914
+  },
+  {
+    "method": "tfidf",
+    "algo": "kmeans9",
+    "inertia": 4680.3330363195455,
+    "silhouette": 0.02229680834091075,
+    "db_score": 7.580702980593767
+  },
+  {
+    "method": "tfidf",
+    "algo": "kmeans10",
+    "inertia": 4659.451122956707,
+    "silhouette": 0.024656421455126313,
+    "db_score": 7.246518130584555
+  },
+  {
+    "method": "tfidf",
+    "algo": "dbscan0.3",
+    "silhouette": -0.009828627900685553,
+    "db_score": 1.7163692878759451,
+    "n_noise": 4956
+  },
+  {
+    "method": "tfidf",
+    "algo": "dbscan0.4",
+    "silhouette": -0.062436774373478096,
+    "db_score": 2.007610050857961,
+    "n_noise": 4666
+  },
+  {
+    "method": "tfidf",
+    "algo": "dbscan0.5",
+    "silhouette": -0.04103838352018012,
+    "db_score": 2.4114679109284185,
+    "n_noise": 3850
+  },
+  {
+    "method": "tfidf",
+    "algo": "dbscan0.6",
+    "silhouette": -0.04015816233943114,
+    "db_score": 3.2523370087359784,
+    "n_noise": 2251
+  },
+  {
+    "method": "tfidf",
+    "algo": "hdbscan",
+    "silhouette": 0.0038121314577374194,
+    "db_score": 14.980177691252306,
+    "n_noise": 410
+  },
+  {
+    "method": "w2v",
+    "algo": "kmeans4",
+    "inertia": 35.33384704589844,
+    "silhouette": 0.07469458878040314,
+    "db_score": 3.4576809202954215
+  },
+  {
+    "method": "w2v",
+    "algo": "kmeans5",
+    "inertia": 34.65814971923828,
+    "silhouette": 0.0739172175526619,
+    "db_score": 3.675964540434144
+  },
+  {
+    "method": "w2v",
+    "algo": "kmeans6",
+    "inertia": 33.85704040527344,
+    "silhouette": 0.04862228408455849,
+    "db_score": 3.3170281890133073
+  },
+  {
+    "method": "w2v",
+    "algo": "kmeans7",
+    "inertia": 33.35618591308594,
+    "silhouette": 0.04997842758893967,
+    "db_score": 3.5226477195448296
+  },
+  {
+    "method": "w2v",
+    "algo": "kmeans8",
+    "inertia": 33.036781311035156,
+    "silhouette": 0.05451277643442154,
+    "db_score": 3.142002214231412
+  },
+  {
+    "method": "w2v",
+    "algo": "kmeans9",
+    "inertia": 32.54983139038086,
+    "silhouette": 0.06431954354047775,
+    "db_score": 3.133589376219774
+  },
+  {
+    "method": "w2v",
+    "algo": "kmeans10",
+    "inertia": 32.29677963256836,
+    "silhouette": 0.05912623554468155,
+    "db_score": 3.162718843626485
+  },
+  {
+    "method": "w2v",
+    "algo": "dbscan0.3",
+    "silhouette": null,
+    "db_score": null,
+    "n_noise": 1
+  },
+  {
+    "method": "w2v",
+    "algo": "dbscan0.4",
+    "silhouette": null,
+    "db_score": null,
+    "n_noise": 0
+  },
+  {
+    "method": "w2v",
+    "algo": "dbscan0.5",
+    "silhouette": null,
+    "db_score": null,
+    "n_noise": 0
+  },
+  {
+    "method": "w2v",
+    "algo": "dbscan0.6",
+    "silhouette": null,
+    "db_score": null,
+    "n_noise": 0
+  },
+  {
+    "method": "w2v",
+    "algo": "hdbscan",
+    "silhouette": -0.06140347942709923,
+    "db_score": 5.401603611234575,
+    "n_noise": 3403
+  }
+]

@@ -6,11 +6,11 @@ abnormality
 abortion
 absence
 absolute
-abstract
 abundance
 abuse
 ac
 academic
+accept
 acceptability
 acceptable
 access
@@ -32,6 +32,7 @@ action
 activation
 active
 activity
+actor
 acute
 ad
 adapt
@@ -46,32 +47,39 @@ adequate
 adherence
 adjust
 adjust age
+adjust odd
 adjusted
 adjustment
 administer
 administration
+administrative
 admission
 admit
+admix
 admixture
 adolescent
 adopt
 adoption
 adult
+adult age
+adult year
+adulthood
 advance
 advanced
 advantage
 adverse
 adverse event
 aeruginosa
+af
 affect
 affected
+affinity
 affordable
 africa
 african
 ag
 age
 age gender
-age group
 age month
 age sd
 age sex
@@ -81,20 +89,16 @@ aged year
 agency
 agenda
 agent
+ago
 agree
 agreement
 ahr
 aid
 aids
-aim
-aim assess
-aim describe
-aim determine
-aim evaluate
-aim study
 air
 air pollution
 airway
+al
 albendazole
 alcohol
 alcohol consumption
@@ -110,6 +114,8 @@ alternative
 altitude
 amazon
 amazon basin
+amazon region
+amazonia
 amazonian
 america
 america caribbean
@@ -124,12 +130,6 @@ amplify
 amr
 anal
 analyse
-analysis
-analysis conduct
-analysis perform
-analysis result
-analysis reveal
-analysis use
 analytical
 analyze
 analyze use
@@ -152,6 +152,7 @@ antibiotic resistance
 antibiotic use
 antibodie
 antibody
+antibody response
 antigen
 antimalarial
 antimicrobial
@@ -174,6 +175,7 @@ appropriate
 approve
 approximately
 apr
+apr ci
 april
 area
 area peru
@@ -185,7 +187,6 @@ art
 art initiation
 arterial
 artery
-article
 asia
 asian
 ask
@@ -200,12 +201,12 @@ assign
 assist
 assistance
 associate
+associate factor
 associate high
 associate increase
 associate low
 associated
 association
-association study
 asthma
 asymptomatic
 atherosclerosis
@@ -213,12 +214,12 @@ attempt
 attend
 attention
 attitude
+attitude practice
 attributable
 attribute
 auc
 august
 aureus
-author
 authority
 automate
 availability
@@ -230,7 +231,6 @@ aware
 awareness
 azithromycin
 bacilliformis
-background
 bacteria
 bacterial
 bad
@@ -240,7 +240,7 @@ barrier
 bartonella
 basal
 base
-base study
+base intervention
 base survey
 baseline
 basic
@@ -249,7 +249,9 @@ basis
 bat
 bayesian
 bear
+bed
 begin
+beginning
 behavior
 behavioral
 behaviour
@@ -258,11 +260,13 @@ believe
 belong
 beneficial
 benefit
+benign
 beta
 beverage
 bias
 billion
 bind
+biochemical
 biofilm
 biological
 biology
@@ -284,7 +288,6 @@ block
 blood
 blood culture
 blood pressure
-blood sample
 blot
 blue
 bmi
@@ -336,17 +339,15 @@ cardiovascular
 cardiovascular disease
 cardiovascular risk
 care
+care provider
+care unit
 career
 caregiver
 caribbean
 carie
+carriage
 carrier
 carry
-case
-case control
-case report
-case study
-case year
 cash
 cash transfer
 cat
@@ -370,14 +371,17 @@ census
 center
 central
 central nervous
+central south
 centre
 century
 cerebral
 cerro
-cerro pasco
+cerro de
 certain
 certainty
 cervical
+cervical cancer
+chaga
 chagas
 chagas disease
 chain
@@ -391,6 +395,7 @@ characterize
 chemical
 chest
 chi
+chi square
 chicken
 child
 child adolescent
@@ -398,6 +403,7 @@ child age
 child health
 child year
 childhood
+childhood abuse
 chile
 chilean
 china
@@ -414,9 +420,9 @@ chronic mountain
 ci
 ci ci
 ci compare
-ci conclusion
 ci high
 ci respectively
+cih
 ciprofloxacin
 circulate
 circulation
@@ -438,15 +444,6 @@ climate
 climate change
 climatic
 clinic
-clinical
-clinical characteristic
-clinical feature
-clinical isolate
-clinical manifestation
-clinical outcome
-clinical practice
-clinical presentation
-clinical trial
 clinically
 clinician
 clone
@@ -455,7 +452,9 @@ closely
 cluster
 cm
 cms
+cns
 co
+co infection
 coast
 coastal
 cochrane
@@ -463,8 +462,7 @@ code
 coefficient
 cognitive
 cognitive impairment
-cohort
-cohort study
+cold
 coli
 collaboration
 collaborative
@@ -487,13 +485,16 @@ communicable disease
 communication
 community
 community base
+community level
+comorbid
 comorbiditie
 comorbidity
 comparable
 comparative
 compare
-compare control
+compare non
 comparison
+competence
 complement
 complete
 complex
@@ -507,6 +508,7 @@ composition
 compound
 comprehensive
 comprise
+compromise
 compute
 computer
 concentrate
@@ -514,21 +516,19 @@ concentration
 concept
 concern
 conclude
-conclusion
-conclusion finding
-conclusion result
-conclusion study
 concordance
 condition
 condom
 condom use
 conduct
+conduct use
 confer
 conference
 confidence
 confidence interval
 confirm
-conflict
+confirmation
+confirmatory
 confounder
 congenital
 consecutive
@@ -536,6 +536,7 @@ consensus
 consent
 consequence
 conservation
+conserve
 consider
 considerable
 consideration
@@ -562,17 +563,12 @@ contrast
 contribute
 contribution
 contributor
-control
-control group
-control intervention
-control measure
-control program
-control study
-control trial
 conventional
+conversion
 cooking
 cookstove
 copd
+cope
 copy
 core
 coronary
@@ -600,8 +596,9 @@ cover
 coverage
 covid
 covid pandemic
-covid patient
 cox
+cp
+cpgs
 cr
 create
 creatinine
@@ -619,6 +616,7 @@ cryptosporidium
 ct
 cultural
 culture
+cultured
 cumulative
 cure
 current
@@ -642,22 +640,24 @@ daly
 damage
 damage accrual
 darlingi
-data
 database
 dataset
 date
 datum
-datum analysis
 datum collect
 datum obtain
 datum suggest
 day
 day day
+de
+de dio
+de pasco
 death
 dec
 decade
 december
 decision
+decision making
 decline
 decrease
 deep
@@ -666,6 +666,7 @@ define
 definition
 definitive
 degree
+del
 delay
 deletion
 deliver
@@ -673,6 +674,7 @@ delivery
 demand
 dementia
 demographic
+demographic characteristic
 demonstrate
 dengue
 density
@@ -692,14 +694,16 @@ derive
 describe
 description
 descriptive
-design
 despite
 detail
+detailed
 detect
 detection
 determinant
+determination
 determine
 determine association
+determine prevalence
 develop
 develop country
 development
@@ -728,12 +732,14 @@ diet
 dietary
 differ
 difference
+difference find
 different
 differential
 differentiate
 differentiation
 difficult
 difficulty
+diffusion
 digital
 dimension
 dio
@@ -743,9 +749,9 @@ disability
 disaster
 discharge
 discovery
+discriminate
 discrimination
 discuss
-discussion
 disease
 disease activity
 disease burden
@@ -770,6 +776,7 @@ diversity
 divide
 dl
 dm
+dmft
 dna
 doctor
 document
@@ -778,7 +785,9 @@ domain
 domestic
 donor
 dose
+dose mg
 double
+double blind
 dr
 draw
 drink
@@ -827,6 +836,8 @@ effort
 egfr
 egg
 eitb
+el
+el nino
 elderly
 electronic
 element
@@ -846,6 +857,7 @@ emotional
 emphasize
 empirical
 employ
+employment
 enable
 encode
 encounter
@@ -853,6 +865,7 @@ encourage
 end
 endemic
 endemic area
+endemic country
 endemic region
 energy
 engage
@@ -860,11 +873,14 @@ engagement
 english
 enhance
 enrol
+enrollment
+enso
 ensure
 environment
 environmental
 enzyme
 enzyme link
+epds
 epidemic
 epidemiologic
 epidemiological
@@ -873,9 +889,12 @@ epilepsy
 episode
 epitope
 epo
+equal
 equation
 equipment
 equity
+equivalent
+era
 error
 erythematosus
 erythrocytosis
@@ -893,15 +912,16 @@ estimate prevalence
 estimate use
 estimation
 et
+et al
 ethic
 ethnic
-ethnic group
 ethnicity
 etiology
 europe
 european
 evaluate
 evaluate association
+evaluate effect
 evaluate use
 evaluation
 event
@@ -915,6 +935,7 @@ examination
 examine
 example
 exceed
+excellent
 excess
 excessive
 excessive erythrocytosis
@@ -947,12 +968,14 @@ external
 extract
 extraction
 extreme
+extremely
 eye
 face
 facial
 facilitate
 facilitator
 facility
+fact
 factor
 factor associate
 factor influence
@@ -974,6 +997,7 @@ fast
 fat
 fatal
 fatality
+fatality rate
 fatigue
 fatty
 favor
@@ -982,8 +1006,10 @@ fear
 feasibility
 feasible
 feature
+febrile
 february
 fecal
+fece
 feed
 feeding
 female
@@ -999,9 +1025,7 @@ final
 finally
 financial
 find
-find significant
-finding
-finding suggest
+find high
 fine
 fish
 fit
@@ -1011,7 +1035,6 @@ fluid
 fluoride
 fly
 focus
-focus group
 fold
 follow
 food
@@ -1023,6 +1046,7 @@ formal
 formation
 formula
 formulation
+fpg
 fraction
 fracture
 fragment
@@ -1039,7 +1063,6 @@ function
 functional
 fund
 fundamental
-funding
 fungal
 furthermore
 future
@@ -1047,12 +1070,14 @@ gain
 gap
 gas
 gastric
+gastric cancer
 gastrointestinal
+gather
+gc
 gender
 gene
 gene expression
 general
-general population
 generalize
 generalized
 generally
@@ -1080,7 +1105,6 @@ global burden
 global health
 globally
 glucose
-goal
 gold
 good
 google
@@ -1092,7 +1116,7 @@ graduate
 gram
 granulosus
 great
-group
+ground
 grow
 growth
 gt
@@ -1101,6 +1125,7 @@ guide
 guideline
 guinea
 guinea pig
+ha
 haart
 habit
 habitat
@@ -1125,9 +1150,10 @@ health
 health care
 health center
 health facility
+health impact
+health insurance
 health intervention
 health organization
-health outcome
 health policy
 health problem
 health professional
@@ -1140,7 +1166,6 @@ health worker
 healthcare
 healthcare system
 healthy
-healthy control
 heart
 heart disease
 heart failure
@@ -1151,6 +1176,8 @@ helminth
 help
 hematocrit
 hemoglobin
+hemoglobin level
+hepatic
 hepatica
 hepcidin
 heredia
@@ -1167,6 +1194,7 @@ high income
 high level
 high low
 high mortality
+high number
 high odd
 high prevalence
 high proportion
@@ -1184,6 +1212,7 @@ histological
 histopathological
 history
 hiv
+hiv aids
 hiv care
 hiv infect
 hiv infection
@@ -1216,8 +1245,10 @@ htlv
 htlv associate
 htlv infection
 human
+human health
 human immunodeficiency
 humboldt
+hybrid
 hygiene
 hypertension
 hypertensive
@@ -1238,6 +1269,7 @@ igm
 ii
 iii
 il
+il il
 ill
 illness
 illustrate
@@ -1251,6 +1283,7 @@ immunoassay
 immunodeficiency
 immunodeficiency virus
 immunosorbent
+immunosorbent assay
 impact
 impair
 impairment
@@ -1271,9 +1304,6 @@ incidence
 incidence rate
 incident
 include
-include analysis
-include patient
-include study
 inclusion
 inclusion criterion
 income
@@ -1290,13 +1320,11 @@ independently
 independently associate
 index
 index bmi
-index case
 india
 indicate
 indicator
 indigenous
 indigenous people
-indigenous population
 indirect
 individual
 individual level
@@ -1308,12 +1336,14 @@ inequity
 infant
 infarction
 infect
-infect patient
 infected
 infection
+infection cause
 infectious
 infectious disease
+infer
 infestan
+infestation
 inflammation
 inflammatory
 influence
@@ -1335,6 +1365,8 @@ initiation
 initiative
 injury
 innovation
+inpatient
+input
 insect
 insecticide
 insight
@@ -1350,6 +1382,7 @@ integrate
 integration
 intensity
 intensive
+intensive care
 intention
 inter
 interact
@@ -1367,11 +1400,11 @@ interquartile range
 interval
 interval ci
 intervention
+intervention improve
 interview
 intestinal
 intra
 introduce
-introduction
 invasion
 invasive
 inverse
@@ -1401,7 +1434,6 @@ ivm
 january
 job
 joint
-journal
 juan
 july
 june
@@ -1418,12 +1450,14 @@ km
 know
 knowledge
 knowledge attitude
+la
 label
 laboratory
 lac
 lack
 lactamase
 lactoferrin
+lag
 lake
 lamp
 lancet
@@ -1431,11 +1465,13 @@ land
 landscape
 language
 large
+large number
 large scale
 largely
 larvae
 larval
 late
+late onset
 latent
 later
 lateral
@@ -1451,10 +1487,14 @@ leadership
 learn
 learning
 leave
+left
+legal
 leishmania
 leishmania viannia
 leishmaniasis
 length
+lepidium
+lepidium meyenii
 leptospira
 leptospirosis
 lesion
@@ -1462,23 +1502,25 @@ lesson
 level
 level high
 lf
+library
 life
+life expectancy
 lifestyle
 lifetime
 light
 like
 likelihood
 likely
+likewise
 lima
 lima peru
 limb
 limit
-limitation
 limited
-limited setting
 line
 lineage
 linear
+linear model
 linear regression
 link
 link immunosorbent
@@ -1487,8 +1529,8 @@ lip
 lipid
 liquid
 list
+literacy
 literature
-literature review
 little
 little know
 live
@@ -1512,8 +1554,8 @@ logistic regression
 long
 long term
 longitudinal
-longitudinal study
 loreto
+los
 lose
 loss
 low
@@ -1540,14 +1582,14 @@ lymphoma
 lymphotropic
 lymphotropic virus
 maca
+macrolide
 macrophage
 madre
-madre dio
+madre de
 magnetic
 magnetic resonance
 magnitude
 main
-main outcome
 mainly
 maintain
 maintenance
@@ -1556,7 +1598,7 @@ majority
 maker
 making
 malaria
-malaria control
+malaria elimination
 malaria transmission
 male
 male female
@@ -1581,12 +1623,11 @@ market
 mass
 mass index
 match
-material
-material method
 maternal
 matrix
 matter
 maturation
+max
 maximum
 md
 mdr
@@ -1605,6 +1646,7 @@ median
 median age
 mediate
 medical
+medical record
 medical student
 medication
 medicine
@@ -1624,8 +1666,6 @@ mental disorder
 mental health
 mention
 message
-meta
-meta analysis
 metabolic
 metabolic syndrome
 metabolism
@@ -1633,13 +1673,6 @@ metabolite
 metal
 metastasis
 meter
-method
-method conduct
-method cross
-method datum
-method retrospective
-method study
-method use
 methodological
 methodology
 methylation
@@ -1656,7 +1689,9 @@ mg kg
 mhc
 mhealth
 mic
+microbial
 microbiological
+microorganism
 microsatellite
 microscopic
 microscopy
@@ -1670,6 +1705,7 @@ milk
 million
 million people
 min
+mini
 minimal
 minimum
 mining
@@ -1681,7 +1717,6 @@ mitigate
 mitochondrial
 mix
 mixed
-mixed method
 ml
 mm
 mm hg
@@ -1692,9 +1727,10 @@ mobile
 mobile phone
 mobility
 mod
+modality
 mode
 model
-model result
+model adjust
 model use
 modelling
 moderate
@@ -1708,8 +1744,10 @@ molecule
 monitor
 monitoring
 monkeypox
+mono
 monoclonal
 month
+month age
 month follow
 monthly
 mood
@@ -1721,6 +1759,7 @@ mortality
 mortality rate
 mosquito
 mother
+motility
 motivation
 mountain
 mountain sickness
@@ -1732,6 +1771,7 @@ mrsa
 ms
 msm
 msm tw
+msws
 mtb
 mtb rif
 mucosal
@@ -1744,10 +1784,8 @@ multimorbidity
 multiple
 multiplex
 multivariable
-multivariable analysis
 multivariable model
 multivariate
-multivariate analysis
 muscle
 mutant
 mutation
@@ -1758,10 +1796,13 @@ myocardial
 myocardial infarction
 na
 nacional
+nafld
 nanoparticle
 narrative
 nasal
 national
+national health
+national hospital
 nationally
 native
 native american
@@ -1781,6 +1822,7 @@ neglect
 neonatal
 neonate
 neoplasm
+nerve
 nervous
 nervous system
 nest
@@ -1790,14 +1832,17 @@ neurocysticercosis
 neurocysticercosis ncc
 neurological
 new
-new case
 newborn
 newly
 ng
 ng ml
+nino
 non
 non communicable
+noncardiac
+noncardiac surgery
 noncommunicable
+noncommunicable disease
 normal
 noroviru
 north
@@ -1818,16 +1863,7 @@ nutritional
 ny
 obese
 obesity
-objective
-objective aim
-objective assess
-objective describe
-objective determine
-objective evaluate
-objective study
 observation
-observational
-observational study
 observe
 observed
 obstetric
@@ -1863,17 +1899,18 @@ organ
 organic
 organism
 organization
+orient
 origin
 original
 originate
+orthodontic
 osa
 outbreak
-outcome
-outcome measure
 outpatient
 output
 outside
 overall
+overall prevalence
 overcome
 overlap
 overweight
@@ -1882,31 +1919,39 @@ oxfendazole
 oxidative
 oxide
 oxygen
+oxygen saturation
+oxygenation
 pa
 pacific
 package
 pain
 pair
+palate
 pallidum
 pan
 pandemic
 panel
 pap
-paper
 parallel
 parameter
 parasite
+parasitemia
 parasitic
+parasitic infection
 parenchymal
 parent
 parental
 parkinson
 partial
+partially
 participant
+participant complete
 participate
 participation
+particle
 particular
 particularly
+particulate
 partner
 partnership
 pasco
@@ -1916,18 +1961,9 @@ past year
 pathogen
 pathogenesis
 pathogenic
+pathological
 pathology
 pathway
-patient
-patient health
-patient high
-patient include
-patient present
-patient receive
-patient report
-patient treat
-patient undergo
-patient year
 pattern
 pay
 pb
@@ -1965,20 +2001,20 @@ personal
 personnel
 perspective
 peru
-peru background
-peru introduction
-peru material
-peru method
-peru objective
-peru study
+peru assess
+peru cross
+peru describe
+peru determine
+peru evaluate
+peru high
+peru migrant
+peru participant
 peru use
 peruana
 peruvian
 peruvian amazon
 peruvian ande
 peruvian child
-peruvian patient
-peruvian population
 peruvian woman
 peruviana
 pet
@@ -1987,6 +2023,7 @@ ph
 pharmacokinetic
 pharmacological
 pharmacy
+pharyngeal
 phase
 phc
 phenomenon
@@ -2002,7 +2039,6 @@ physician
 physiological
 pig
 pilot
-pilot study
 pisco
 place
 placebo
@@ -2030,6 +2066,7 @@ point care
 poisson
 poisson regression
 policy
+policy maker
 political
 pollution
 polymerase
@@ -2038,10 +2075,6 @@ polymorphism
 pool
 poor
 poorly
-population
-population base
-population level
-population structure
 porcine
 pose
 position
@@ -2066,6 +2099,7 @@ pr
 pr ci
 practical
 practice
+practitioner
 pragmatic
 pre
 precipitation
@@ -2092,8 +2126,6 @@ prescribe
 prescription
 presence
 present
-present case
-present study
 presentation
 preserve
 pressure
@@ -2105,10 +2137,9 @@ prevalent
 prevent
 preventable
 prevention
-prevention control
+prevention strategy
 preventive
 previous
-previous study
 previously
 price
 primaquine
@@ -2116,11 +2147,10 @@ primarily
 primary
 primary care
 primary health
-primary outcome
 principal
-principal finding
 prior
 priority
+prison
 private
 pro
 probability
@@ -2129,6 +2159,7 @@ probably
 problem
 procedure
 process
+processing
 produce
 product
 production
@@ -2149,21 +2180,19 @@ promising
 promote
 promoter
 promotion
+prompt
 property
 prophylaxis
 proportion
 proportional
 propose
 prospective
-prospective cohort
-prospective study
 prostate
 protease
 protect
 protection
 protective
 protein
-protocol
 prove
 provide
 provide evidence
@@ -2177,6 +2206,7 @@ psychiatry
 psychological
 psychometric
 psychosocial
+ptb
 ptsd
 public
 public health
@@ -2187,25 +2217,29 @@ pubme
 pulmonary
 pulmonary tuberculosis
 pulse
+pump
 puno
 purchase
-purpose
+putative
 pylori
 pyrazinamide
 pza
 qpcr
 qualitative
-qualitative study
 quality
+quality care
 quality evidence
 quality life
+quantification
 quantify
 quantitative
 quechua
 question
 questionnaire
 quinolone
+quintile
 rabie
+race
 radiation
 radical
 raise
@@ -2213,9 +2247,8 @@ random
 random effect
 randomise
 randomize
-randomize control
-randomized
 randomly
+randomly assign
 randomly select
 range
 rank
@@ -2251,6 +2284,7 @@ recognize
 recombinant
 recommend
 recommendation
+reconstruction
 record
 recover
 recovery
@@ -2265,6 +2299,7 @@ refer
 reference
 referral
 reflect
+reform
 regard
 regardless
 regimen
@@ -2274,7 +2309,6 @@ regional
 register
 registry
 regression
-regression analysis
 regression model
 regression use
 regular
@@ -2306,8 +2340,6 @@ renal
 repair
 repeat
 replacement
-report
-report case
 reporting
 represent
 representative
@@ -2315,13 +2347,13 @@ reproduction
 reproductive
 require
 requirement
-research
 researcher
 reservoir
 reside
 residence
 resident
 residual
+residue
 resilience
 resistance
 resistance gene
@@ -2332,10 +2364,10 @@ resolve
 resonance
 resource
 resource limited
-resource setting
+resource poor
 respect
+respective
 respectively
-respectively conclusion
 respiratory
 respiratory disease
 respond
@@ -2345,27 +2377,12 @@ responsible
 rest
 restrict
 restriction
-result
-result datum
-result find
-result indicate
-result overall
-result participant
-result patient
-result study
-result suggest
-result total
 retention
 retrieve
 retrospective
-retrospective cohort
-retrospective study
 return
 reveal
 reverse
-review
-review literature
-review meta
 reviewer
 rheumatology
 rich
@@ -2403,17 +2420,16 @@ rural urban
 rv
 safe
 safety
+saharan
 salmonella
 salt
-sample
-sample collect
-sample size
 sampling
 san
 san juan
 sand
 sandfly
 sanitation
+sao
 sar
 sar cov
 satisfaction
@@ -2430,7 +2446,6 @@ scientific
 scientific production
 sclerosis
 scope
-scope review
 scopus
 score
 screen
@@ -2438,22 +2453,24 @@ screening
 sd
 sd year
 sdi
+se
+sea
+sea level
 search
 season
 seasonal
 second
 second line
 secondary
-secondary analysis
 secondary datum
 secretion
 section
 sectional
-sectional analysis
-sectional study
+sectional conduct
 sectional survey
 sector
 security
+sedentary
 sediment
 sedimentation
 seed
@@ -2465,7 +2482,6 @@ selection
 selective
 self
 self efficacy
-self report
 semi
 semi structured
 sensitive
@@ -2475,6 +2491,7 @@ separate
 sepsis
 september
 sequence
+sequencing
 sera
 series
 serological
@@ -2483,12 +2500,10 @@ seropositive
 seroprevalence
 serotype
 serum
-serum sample
 serve
 service
 session
 set
-setting
 seven
 severe
 severity
@@ -2509,10 +2524,6 @@ sickness
 sign
 signal
 signature
-significance
-significant
-significant association
-significant difference
 significantly
 significantly associate
 significantly high
@@ -2523,6 +2534,7 @@ similarly
 simple
 simulation
 single
+sit
 site
 situation
 size
@@ -2530,10 +2542,10 @@ skeletal
 skill
 skin
 sle
-sle patient
 sleep
 sleep apnea
 sleep quality
+sleepiness
 slightly
 slow
 small
@@ -2564,6 +2576,7 @@ south
 south africa
 south america
 south american
+southeast
 southern
 sp
 space
@@ -2589,8 +2602,8 @@ spot
 spp
 spread
 sputum
-sputum sample
 square
+ss
 st
 stability
 stable
@@ -2610,26 +2623,27 @@ state
 states
 statistic
 statistical
-statistical analysis
 statistically
-statistically significant
 status
 stay
 stem
 step
 stercoralis
+sth
 sti
 stigma
 stimulate
 stimulation
 stis
 stool
-stool sample
 stop
+store
 stove
 strain
+strain isolate
 strategy
 stratify
+street
 strength
 strengthen
 streptococcus
@@ -2644,39 +2658,9 @@ structure
 structured
 structured interview
 student
-study
-study aim
-study assess
-study background
-study carry
-study compare
-study conduct
-study describe
-study design
-study determine
-study evaluate
-study examine
-study explore
-study find
-study group
-study identify
-study include
-study investigate
-study need
-study objective
-study participant
-study patient
-study perform
-study period
-study peru
-study population
-study provide
-study report
-study site
-study suggest
-study use
 stunt
 sub
+sub saharan
 subarachnoid
 subgroup
 subject
@@ -2700,7 +2684,7 @@ suicidal
 suicidal ideation
 suitable
 summarize
-summary
+superficial
 supplement
 supplementation
 supply
@@ -2712,6 +2696,7 @@ surgical
 surround
 surveillance
 survey
+survey conduct
 survival
 susceptibility
 susceptibility testing
@@ -2728,8 +2713,7 @@ synthesis
 syphili
 syphilis
 system
-systematic
-systematic review
+systematically
 systemic
 systemic lupus
 systolic
@@ -2746,9 +2730,8 @@ task
 tax
 taxis
 tb
-tb case
-tb patient
 tb treatment
+te
 teacher
 teaching
 team
@@ -2758,12 +2741,13 @@ technology
 temperature
 temporal
 tend
+tendency
 term
+terminal
 territory
 tertiary
 test
 test positive
-test result
 test use
 testing
 testosterone
@@ -2797,10 +2781,11 @@ tooth
 topic
 total
 total participant
-total patient
 toxicity
 toxin
+tp
 trachomatis
+track
 tract
 traditional
 traffic
@@ -2810,6 +2795,7 @@ trait
 trajectory
 trans
 transcript
+transcription
 transfer
 transgender
 transgender woman
@@ -2820,6 +2806,7 @@ transmit
 transmit infection
 transport
 transportation
+trap
 trauma
 traumatic
 travel
@@ -2827,23 +2814,21 @@ traveler
 treat
 treatment
 treatment failure
-treatment outcome
-treatment patient
 tree
 treg
 trend
-trial
-trial rct
+treponema
+treponema pallidum
 triatomine
 trigger
 tropical
+tropical disease
 true
 trypanosoma
 trypanosoma cruzi
 tsp
 tube
 tuberculosis
-tuberculosis patient
 tuberculosis tb
 tumbe
 tumor
@@ -2853,6 +2838,8 @@ twice
 type
 type diabete
 type diabetes
+typical
+uganda
 ulcer
 ultrasound
 uncertainty
@@ -2887,13 +2874,16 @@ usa
 use
 use assess
 use datum
+use disorder
 use estimate
+use evaluate
 use poisson
 useful
 user
 usual
 usually
 utility
+utilization
 utilize
 vaccination
 vaccine
@@ -2912,18 +2902,20 @@ variety
 vary
 vascular
 vector
-vector control
+vegetable
 vehicle
 venom
 ventilation
 ventricular
 version
 versus
+vertical
 veterinary
 vf
 viability
 viable
 viannia
+victim
 video
 view
 village
@@ -2933,6 +2925,7 @@ virtual
 virulence
 virulence factor
 virus
+virus hiv
 virus type
 visit
 visual
@@ -2951,6 +2944,7 @@ vulnerable
 waist
 walk
 wall
+warm
 warrant
 waste
 water
@@ -2963,10 +2957,13 @@ web science
 week
 weekly
 weight
+west
 western
+western blot
 wgs
 white
 wide
+wide association
 wide range
 widely
 widespread
@@ -2983,15 +2980,18 @@ world health
 world mental
 worldwide
 worsen
+wound
 xpert
 year
 year age
 year follow
 year old
+year woman
 year year
 yield
 young
 young adult
+young child
 young people
 yr
 zika
