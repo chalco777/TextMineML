@@ -11,16 +11,13 @@ from spacy.lang.en.stop_words import STOP_WORDS
 custom_stopwords = {
     "abstract","acknowledgment","acknowledgments","aim","aims",
     "analysis","analyses","article","author","authors","background",
-    "case","cases","clinical","cohort","conclusion","conclusions",
-    "conflict","control","controls","data","design","discussion",
-    "ethical","ethics","finding","findings","funding","goal","goals",
-    "group","groups","introduction","journal","limitation","limitations",
-    "material","materials","method","methods","meta","meta-analysis",
-    "objective","objectives","observational","outcome","outcomes",
-    "paper","patient","patients","population","populations","protocol",
-    "purpose","randomized","report","research","result","results",
-    "review","sample","samples","setting","significance","significant",
-    "study","studies","summary","systematic","trial"
+    "conclusion","conclusions","design","discussion","finding","findings","funding","goal","goals",
+    "introduction","journal","limitation","limitations",
+    "material","materials","method","methods",
+    "objective","objectives","outcome","outcomes",
+    "paper","purpose","randomized","report","research","result","results",
+    "review","setting","significance","significant",
+    "study","studies","summary","use"
 }
 
 # Unión de las stopwords de spaCy con las personalizadas
@@ -44,13 +41,18 @@ def preprocess_text(text: str) -> str:
     text = re.sub(r"[^a-z\s]", " ", text)
 
     doc = nlp(text)
-    tokens = [token.lemma_ for token in doc if token.lemma_ not in stopwords_custom and token.is_alpha]
-
+    tokens = [
+            token.lemma_
+            for token in doc
+            if token.lemma_ not in stopwords_custom          
+            and token.is_alpha                            
+            and len(token.lemma_) > 1                    #filtra 1-letra
+        ]
     return " ".join(tokens)
 
 # === CONFIGURA TU ARCHIVO DE ENTRADA Y SALIDA ===
-INPUT_CSV = "articulos_upch_traducidos_con_editorial_editados_manual.csv"
-OUTPUT_CSV = "articulos_preprocessed_final.csv"
+INPUT_CSV = "../results/tables/articulos_upch_traducidos_con_editorial_editados_manual.csv"
+OUTPUT_CSV = "../results/tables/articulos_preprocessed_final.csv"
 
 # Cargar datos
 df = pd.read_csv(INPUT_CSV, sep=";", quotechar='"', encoding="utf-8")

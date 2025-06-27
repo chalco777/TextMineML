@@ -1,0 +1,3000 @@
+abdominal
+ability
+able
+abnormal
+abnormality
+abortion
+abraham
+absence
+absolute
+abundance
+abuse
+academic
+acceptability
+acceptable
+access
+accompany
+accord
+account
+accrual
+accumulation
+accuracy
+accurate
+achieve
+acid
+acosta
+acquire
+acquisition
+act
+action
+activation
+active
+activity
+acute
+ad
+adapt
+adaptation
+adaptive
+add
+addition
+additional
+additionally
+address
+adequate
+adherence
+adjust
+adjusted
+adjustment
+administer
+administration
+admission
+admit
+admixture
+adolescent
+adoption
+adult
+advance
+advanced
+advantage
+adverse
+adverse event
+aeruginosa
+affect
+affected
+africa
+african
+ag
+age
+age gender
+age month
+age sex
+age year
+aged
+aged year
+agency
+agenda
+agent
+agree
+agreement
+aguilar
+aguirre
+ahr
+aid
+aids
+air
+air pollution
+al
+alarcon
+alarcon graciela
+albendazole
+alberto
+alcohol
+alcohol consumption
+alcohol use
+alejandra
+alejandro
+alexander
+alexander james
+alfonso
+alfredo
+algorithm
+ali
+aliaga
+aliaga carla
+allele
+allow
+almeida
+alonso
+alpaca
+alpha
+alter
+alteration
+alternative
+altitude
+alvarado
+alvarez
+alvaro
+amazon
+amazon basin
+amazonian
+america
+america caribbean
+american
+american country
+american society
+americans
+amino
+amino acid
+aminoglycoside
+amplification
+amr
+ana
+anal
+analyse
+analytical
+analyze
+analyze use
+ancestry
+ancient
+ande
+andean
+andean highlander
+andrade
+andre
+andre guillermo
+andrea
+anemia
+angel
+angela
+angeles
+angelica
+angle
+animal
+ann
+anna
+anne
+annual
+anophele
+answer
+anthony
+anthony william
+anthropometric
+anti
+antibiotic
+antibiotic resistance
+antibodie
+antibody
+antigen
+antimicrobial
+antimicrobial resistance
+antiparasitic
+antiretroviral
+antiretroviral therapy
+antonio
+anxiety
+aor
+aor ci
+apnea
+app
+apparent
+appear
+application
+apply
+approach
+appropriate
+approximately
+apr
+april
+araujo
+area
+area peru
+arequipa
+arequipa peru
+arevalo
+argentina
+arias
+arm
+armando
+armando emiliano
+art
+arterial
+artery
+arturo
+asia
+ask
+aspect
+assay
+assess
+assess association
+assess use
+assessment
+assign
+assist
+assistance
+associate
+associate high
+associate increase
+associate low
+associated
+association
+asthma
+asymptomatic
+attempt
+attend
+attention
+attitude
+attributable
+attribute
+auc
+august
+augusto
+aureus
+availability
+available
+average
+avoid
+awareness
+azithromycin
+bacilliformis
+bacteria
+bacterial
+bad
+balance
+band
+barrier
+bartonella
+basal
+base
+baseline
+basic
+basin
+basis
+bat
+baziliza
+bear
+beatriz
+begin
+behavior
+behavioral
+behaviour
+belief
+believe
+belong
+benefit
+bernabe
+bernabe ortiz
+beta
+beverage
+bias
+bind
+biofilm
+biological
+biology
+biomarker
+biomass
+biomass fuel
+biome
+biome central
+biomedical
+biopsy
+bird
+birth
+birth weight
+bite
+bivariate
+black
+blas
+blind
+block
+blood
+blood pressure
+blot
+bmi
+bmj
+bmj publishing
+body
+body mass
+bolivia
+bone
+bp
+brain
+bravo
+brazil
+brazilian
+braziliensis
+breast
+breastfeed
+brief
+bring
+broad
+brown
+bruno
+build
+burden
+burden disease
+bustamante
+cabrera
+cacere
+cacere palacio
+calcification
+calcify
+calculate
+calderon
+callao
+cambridge
+cambridge university
+campaign
+campos
+campylobacter
+cancer
+candidate
+candidemia
+canine
+canseco
+canseco montero
+capacity
+capital
+capture
+carbon
+carcamo
+carcamo cavagnaro
+carcinoma
+cardenas
+cardiac
+cardiometabolic
+cardiovascular
+cardiovascular disease
+cardiovascular risk
+care
+caregiver
+caribbean
+carie
+carla
+carla maria
+carlos
+carlos fernando
+carlos rafael
+carlton
+carlton anthony
+carmen
+carolina
+carrasco
+carrasco escobar
+carrier
+carrillo
+carrillo larco
+carry
+cash
+cash transfer
+castaneda
+castillo
+castro
+cat
+category
+catherine
+cause
+cause death
+cause mortality
+cavagnaro
+cavagnaro cesar
+cayetano
+cayetano heredia
+cc
+cd
+cd cell
+ce
+cecilia
+cell
+cellular
+center
+central
+central nervous
+centre
+century
+cerebral
+certain
+cervical
+cesar
+cesar augusto
+cesar paul
+chagas
+chagas disease
+chain
+chain reaction
+challenge
+change
+characteristic
+characterization
+characterize
+chavez
+checkley
+checkley william
+chemical
+chen
+chi
+chicken
+child
+child adolescent
+child age
+child health
+child year
+childhood
+chile
+chilean
+china
+chlamydia
+choice
+cholesterol
+choose
+christian
+christopher
+chromosome
+chronic
+chronic condition
+chronic disease
+chronic kidney
+chronic mountain
+chu
+ci
+ci ci
+ci compare
+ci high
+ci respectively
+ciprofloxacin
+circulate
+circumference
+city
+ckd
+cl
+claim
+clark
+class
+classification
+classify
+claudia
+claudio
+clear
+cleft
+client
+climate
+climate change
+climatic
+clinic
+clinically
+clinician
+clone
+close
+cluster
+cm
+cms
+co
+coast
+coastal
+cochrane
+code
+coefficient
+cognitive
+cognitive impairment
+coli
+collaboration
+collect
+collection
+college
+colombia
+colony
+color
+combination
+combine
+come
+commercial
+common
+commonly
+commonly use
+communicable
+communicable disease
+communication
+community
+community base
+comorbiditie
+comorbidity
+comparable
+comparative
+compare
+comparison
+complement
+complete
+complex
+compliance
+complication
+component
+composite
+composition
+compound
+comprehensive
+comprise
+concentration
+concept
+concern
+conclude
+concordance
+condition
+condom
+condom use
+conduct
+conference
+confidence
+confidence interval
+confirm
+confounder
+congenital
+consecutive
+consensus
+consequence
+conservation
+consider
+considerable
+consideration
+consist
+consistency
+consistent
+consistently
+constitute
+constrain
+construct
+consultation
+consume
+consumption
+contact
+contain
+contamination
+content
+context
+continent
+continue
+continuous
+contrast
+contribute
+contribution
+conventional
+cooking
+cookstove
+copd
+copy
+cordova
+core
+cornejo
+coronary
+coronavirus
+correct
+correlate
+correlation
+correspond
+cortavarria
+cortavarria patricia
+corte
+cost
+cost effective
+cost effectiveness
+costa
+cough
+counseling
+count
+country
+country high
+country lmic
+couple
+course
+cov
+cover
+coverage
+covid
+covid pandemic
+cox
+cr
+create
+creatinine
+cristina
+criterion
+critical
+cross
+cross sectional
+crucial
+crude
+cruz
+cruzi
+ct
+cuba
+cuenta
+cuenta elmer
+cultural
+culture
+cumulative
+cure
+current
+currently
+curve
+cusco
+cut
+cutaneous
+cutaneous leishmaniasis
+cutoff
+cvd
+cycle
+cyp
+cyst
+cystic
+cysticerci
+cysticercosis
+cytokine
+da
+daily
+daly
+damage
+daniel
+daniela
+darlingi
+database
+dataset
+date
+datum
+datum collect
+david
+david alexander
+davila
+day
+day day
+de
+de la
+de los
+death
+dec
+decade
+december
+decision
+decline
+decrease
+deep
+deficiency
+define
+definition
+degree
+del
+delay
+deletion
+delgado
+deliver
+delivery
+demand
+dementia
+demographic
+demonstrate
+dengue
+denis
+density
+dental
+dental carie
+dentistry
+denv
+department
+depend
+dependent
+depression
+depressive
+depressive symptom
+depth
+depth interview
+derive
+describe
+description
+descriptive
+despite
+detail
+detect
+detection
+determinant
+determine
+determine association
+develop
+develop country
+development
+developmental
+deviation
+device
+di
+diabete
+diabete mellitus
+diabetes
+diabetic
+diagnose
+diagnosis
+diagnosis treatment
+diagnostic
+diagnostic accuracy
+diagnostic criterion
+diagnostic test
+diameter
+diana
+diarrhea
+diarrheal
+diarrhoea
+diastolic
+diaz
+die
+diego
+diet
+dietary
+diez
+diez canseco
+differ
+difference
+different
+differential
+differentiate
+differentiation
+difficult
+difficulty
+digital
+dimension
+dionicia
+dionicia baziliza
+direct
+directly
+disability
+disaster
+discharge
+discrimination
+discuss
+disease
+disease activity
+disease cause
+disorder
+disparity
+display
+disseminate
+dissemination
+distance
+distinct
+distinguish
+distress
+distribute
+distribution
+district
+diverse
+diversity
+divide
+dl
+dm
+dna
+doctor
+document
+dog
+domain
+domestic
+donor
+dose
+double
+dr
+draw
+drink
+drinking
+drinking water
+drive
+driver
+drug
+drug resistance
+drug resistant
+drug susceptibility
+drug use
+dry
+dsm
+dst
+dual
+duration
+dynamic
+dysfunction
+early
+earthquake
+east
+eastern
+eat
+ecological
+economic
+ecosystem
+ecuador
+eduardo
+education
+educational
+educational level
+ee
+effect
+effect model
+effective
+effectively
+effectiveness
+efficacy
+efficiency
+efficient
+efflux
+effort
+egfr
+egg
+eitb
+el
+el nino
+elderly
+electronic
+element
+elena
+elevate
+elevated
+elevation
+eligible
+elimination
+elisa
+elizabeth
+elmer
+elmer alejandro
+elsa
+elsevier
+embase
+emerge
+emergence
+emergency
+emiliano
+emotional
+emphasize
+empirical
+employ
+enable
+encode
+encounter
+encourage
+end
+endemic
+endemic area
+energy
+engage
+engagement
+english
+enhance
+enrique
+enrol
+ensure
+environment
+environmental
+enzyme
+enzyme link
+epidemic
+epidemiologic
+epidemiological
+epidemiology
+epilepsy
+episode
+epitope
+epo
+equation
+equity
+eric
+error
+erythematosus
+erythrocytosis
+erythropoiesis
+erythropoietin
+esbl
+escherichia
+escherichia coli
+escobar
+escobar gabriel
+especially
+espinoza
+essential
+establish
+establishment
+estimate
+estimate prevalence
+estimate use
+estimation
+et
+et al
+ethnic
+ethnicity
+etiology
+eugenio
+europe
+european
+evaluate
+evaluate association
+evaluate use
+evaluation
+evans
+evans carlton
+event
+evidence
+evidence base
+evolution
+evolutionary
+evolve
+examination
+examine
+example
+excess
+excessive
+excessive erythrocytosis
+exclude
+exclusive
+exercise
+exhibit
+exist
+existence
+expand
+expansion
+expect
+expenditure
+experience
+experiment
+experimental
+expert
+explain
+exploratory
+explore
+expose
+exposure
+express
+expression
+extend
+extensive
+extent
+external
+extract
+extraction
+extreme
+eye
+fabiola
+face
+facial
+facilitate
+facilitator
+facility
+factor
+factor associate
+faculty
+faculty veterinary
+fail
+failure
+falciparum
+falcon
+fall
+family
+far
+fasciola
+fascioliasis
+fast
+fat
+fatal
+fatality
+favor
+fear
+feasibility
+feasible
+feature
+february
+fecal
+feed
+feeding
+felix
+female
+female sex
+fernandez
+fernando
+ferrand
+ferrand marina
+fertility
+fever
+fiber
+field
+figueroa
+filter
+final
+finally
+financial
+find
+fish
+fit
+flore
+flow
+flower
+fluid
+fluoride
+focus
+fold
+follow
+food
+foot
+force
+ford
+forest
+form
+formation
+formula
+fraction
+fracture
+fragment
+framework
+francesca
+francis
+francisco
+franco
+free
+frequency
+frequent
+frequently
+frontier
+frontier medium
+fruit
+fuel
+fuente
+fully
+function
+functional
+fund
+funegra
+funegra patricia
+fungal
+furthermore
+future
+gabriel
+gabriela
+gain
+gallo
+gallo lopez
+gamboa
+gamboa vilela
+gap
+garcia
+garcia funegra
+garcia lescano
+gas
+gastric
+gastrointestinal
+gender
+gene
+general
+generalize
+generalized
+generally
+generate
+generation
+genetic
+genetic diversity
+genome
+genome sequence
+genome wide
+genomic
+genotype
+genus
+geographic
+geographical
+geographically
+george
+gerardo
+german
+german javier
+gestational
+gestational age
+gii
+gil
+gil cesar
+gil manuel
+gilman
+gilman robert
+giovanni
+girl
+global
+global burden
+global health
+globally
+glucose
+gold
+gomez
+gonzale
+gonzales
+gonzales rengifo
+gonzalez
+gonzalez zariquiey
+good
+google
+gotuzzo
+gotuzzo herencia
+government
+gp
+graciela
+grade
+gradient
+graduate
+granulosus
+great
+green
+grow
+growth
+guerra
+guevara
+guevara andre
+guide
+guideline
+guillermo
+guinea
+guinea pig
+gupta
+gustavo
+gustavo francisco
+gutierrez
+guzman
+ha
+haart
+habit
+habitat
+hair
+half
+ham
+ham tsp
+han
+hand
+haplotype
+harm
+hartinger
+hartinger pena
+having
+hazard
+hazard ratio
+hb
+hba
+hdl
+head
+headache
+health
+health care
+health facility
+health institute
+health intervention
+health organization
+health problem
+health professional
+health relate
+health service
+health survey
+health system
+health worker
+healthcare
+healthy
+heart
+heart disease
+heart failure
+heat
+heavy
+hector
+hector hugo
+height
+helminth
+help
+hemoglobin
+hepatica
+hepcidin
+heredia
+herencia
+herencia jose
+hernandez
+herrera
+heterogeneity
+heterogeneous
+hg
+high
+high altitude
+high frequency
+high income
+high level
+high low
+high mortality
+high prevalence
+high proportion
+high quality
+high rate
+high risk
+highland
+highlander
+highlight
+highlight importance
+highly
+hispanic
+histological
+histopathological
+history
+hiv
+hiv care
+hiv infect
+hiv infection
+hiv positive
+hiv prevention
+hiv testing
+hla
+ho
+hold
+home
+hope
+hormone
+hospital
+hospital lima
+hospital peru
+hospitalization
+hospitalize
+host
+hour
+house
+household
+household air
+household contact
+hpv
+hr
+hr ci
+hrqol
+hsp
+htlv
+htlv associate
+htlv infection
+hu
+hugh
+hugo
+huicho
+huicho oriundo
+human
+human immunodeficiency
+humboldt
+hurtado
+hygiene
+hypertension
+hypothesis
+hypothesize
+hypoxia
+hypoxic
+ic
+ideation
+identification
+identify
+identity
+ifn
+igg
+igm
+ignacio
+ii
+iii
+il
+ill
+illness
+illustrate
+image
+imaging
+immune
+immune response
+immunity
+immunization
+immunodeficiency
+immunodeficiency virus
+impact
+impairment
+implant
+implement
+implementation
+implication
+importance
+important
+improve
+improve health
+improved
+improvement
+inadequate
+incentive
+incidence
+incidence rate
+incident
+include
+inclusion
+inclusion criterion
+income
+income country
+income middle
+incorporate
+increase
+increase odd
+increase risk
+increasingly
+independent
+independently
+index
+index bmi
+india
+indicate
+indicator
+indigenous
+indigenous people
+indirect
+individual
+indoor
+induce
+industry
+inequality
+inequity
+infant
+infarction
+infect
+infected
+infection
+infectious
+infectious disease
+infestan
+inflammation
+inflammatory
+influence
+influenza
+inform
+informal
+information
+infrastructure
+inhabitant
+inhibition
+inhibitor
+inhibitory
+initial
+initiate
+initiation
+initiative
+injury
+innovation
+insect
+insecticide
+insight
+institute
+institution
+institutional
+instrument
+insufficient
+insulin
+insurance
+intake
+integrate
+integration
+intensity
+intensive
+intention
+inter
+interaction
+interest
+intermediate
+internal
+international
+internet
+interpretation
+interquartile
+interval
+interval ci
+intervention
+interview
+intestinal
+intra
+introduce
+invasion
+invasive
+investigate
+investigation
+investigator
+investment
+involve
+involvement
+iodine
+iqr
+iquito
+ir
+iron
+ischemic
+isolate
+isolated
+isolation
+isoniazid
+issue
+item
+iv
+ivm
+jaime
+james
+jan
+jannet
+january
+javi
+javier
+jean
+jeffrey
+jessica
+jesus
+jimenez
+job
+john
+jonathan
+jorge
+jorge luis
+jose
+jose eduardo
+jose luis
+joseph
+joseph michael
+jr
+juan
+julia
+julio
+july
+june
+jungle
+kappa
+karen
+katherine
+kelika
+key
+kg
+khan
+kidney
+kidney disease
+kim
+kit
+kitchen
+klausner
+kluwer
+kluwer health
+km
+know
+knowledge
+knowledge attitude
+konda
+konda kelika
+kumar
+la
+label
+laboratory
+lac
+lack
+lactamase
+lactoferrin
+lake
+lam
+lancet
+landscape
+language
+larco
+larco rodrigo
+large
+large scale
+largely
+larvae
+larval
+late
+latent
+later
+lateral
+latin
+latin america
+latin american
+laura
+law
+lazo
+lazo porras
+le
+lead
+lead cause
+leader
+learn
+learning
+leave
+lee
+leishmania
+leishmania viannia
+leishmaniasis
+length
+leon
+leon velarde
+leptospira
+leptospirosis
+lescano
+lescano guevara
+lescano hector
+lesion
+lesson
+level
+level high
+levy
+lf
+li
+library
+library science
+life
+lifestyle
+lifetime
+light
+like
+likelihood
+likely
+lim
+lima
+lima peru
+limb
+limit
+limited
+lin
+linare
+line
+lineage
+linear
+linear regression
+link
+linkage
+lip
+lipid
+liquid
+list
+literature
+little
+little know
+liu
+live
+live high
+live hiv
+liver
+livestock
+living
+llanos
+llanos cuenta
+lmic
+load
+local
+locally
+locate
+location
+loci
+logistic
+logistic regression
+long
+long term
+longitudinal
+lopez
+lopez aliaga
+loreto
+los
+los angeles
+lose
+loss
+low
+low birth
+low cost
+low income
+low level
+low middle
+low prevalence
+low resource
+low risk
+lower
+lowlander
+lozano
+lpg
+lrv
+lt
+lu
+lucia
+luis
+lung
+lupus
+lupus erythematosus
+luz
+lymphocyte
+lymphoma
+lymphotropic
+lymphotropic virus
+ma
+maca
+macrophage
+magnetic
+magnitude
+main
+mainly
+maintain
+maintenance
+major
+majority
+maker
+making
+malaga
+malaga rodriguez
+malaria
+malaria transmission
+male
+male female
+malnutrition
+mammal
+man
+man msm
+man sex
+man woman
+manage
+management
+mangrove
+manifestation
+manual
+manuel
+manuela
+manuela renee
+map
+mapping
+marcelo
+march
+marco
+marcos
+maria
+maria de
+maribel
+marina
+marina julia
+marine
+mario
+mark
+marker
+market
+marta
+martha
+martin
+martinez
+mary
+mass
+mass index
+match
+maternal
+matrix
+matter
+matthew
+mauricio
+max
+maximum
+md
+mdpi
+mdr
+mdr tb
+mean
+mean age
+mean difference
+mean sd
+measure
+measurement
+mechanical
+mechanism
+median
+median age
+mediate
+medical
+medical student
+medication
+medicine
+medicine hygiene
+medicine national
+medina
+medium
+medline
+medline embase
+meet
+mejia
+mellitus
+member
+membrane
+memory
+mendoza
+meningitis
+mental
+mental disorder
+mental health
+message
+metabolic
+metabolic syndrome
+metabolism
+metal
+metastasis
+meter
+methodological
+methodology
+methylation
+metric
+metropolitan
+mexico
+mexico peru
+meza
+mg
+mg dl
+mg kg
+mhc
+mhealth
+mic
+michael
+michelle
+microbiology
+microsatellite
+microscopic
+microscopy
+mid
+middle
+middle income
+migrant
+migration
+miguel
+mild
+milk
+million
+million people
+min
+minimal
+minimum
+mining
+ministry
+ministry health
+minute
+miranda
+miranda jaime
+mirko
+mirko juan
+miss
+mitigate
+mitochondrial
+mixed
+ml
+mm
+mm hg
+mmhg
+mmol
+mobile
+mobility
+mod
+model
+model use
+moderate
+moderate severe
+modern
+modification
+modify
+mohammad
+molecular
+molecule
+monica
+monitor
+monitoring
+montero
+montero francisco
+month
+month follow
+monthly
+mood
+moore
+moore david
+morale
+morbidity
+morbidity mortality
+moreno
+morphological
+morphology
+mortality
+mortality rate
+mosquito
+mother
+motivation
+mountain
+mountain sickness
+mouse
+movement
+mri
+mrsa
+ms
+msm
+mtb
+mtb rif
+mucosal
+multi
+multicenter
+multidrug
+multidrug resistant
+multilevel
+multimorbidity
+multiple
+multivariable
+multivariable model
+multivariate
+munoz
+muscle
+mutation
+mycobacterial
+mycobacterium
+mycobacterium tuberculosis
+myocardial
+na
+nacional
+nanoparticle
+nasal
+national
+national health
+national institute
+national university
+native
+native american
+natural
+naturally
+nature
+navarro
+ncc
+ncd
+ncds
+neal
+near
+nearly
+necessary
+need
+negative
+negatively
+neglect
+neonatal
+neonate
+nervous
+nervous system
+nest
+nestor
+net
+network
+neurocysticercosis
+neurocysticercosis ncc
+neurological
+new
+newborn
+newly
+neyra
+ng
+ng ml
+nguyen
+nino
+non
+non communicable
+normal
+noroviru
+north
+northern
+northern peru
+note
+novel
+november
+nuclear
+nucleotide
+number
+nunez
+nurse
+nursing
+nutrient
+nutrition
+nutritional
+ny
+obese
+obesity
+observation
+observe
+obstructive
+obtain
+occupational
+occur
+occurrence
+ochoa
+ochoa woodell
+october
+odd
+odd ratio
+offer
+oil
+old
+old adult
+old age
+olga
+oliveira
+oncosphere
+ongoing
+online
+onset
+oocyte
+open
+operate
+opportunity
+optimal
+optimize
+option
+oral
+oral health
+order
+organ
+organic
+organism
+organization
+origin
+original
+oriundo
+oriundo luis
+ortega
+ortiz
+ortiz antonio
+osa
+oscar
+outbreak
+outpatient
+outside
+overall
+overcome
+overlap
+overweight
+overweight obesity
+oxford
+oxford university
+oxygen
+pa
+pablo
+pacheco
+pacific
+package
+pain
+pair
+palacio
+palacio carlos
+pallidum
+palomino
+pan
+pandemic
+panel
+paola
+pap
+parameter
+parasite
+parasitic
+parede
+parenchymal
+parent
+parental
+park
+parkinson
+partial
+participant
+participate
+participation
+particular
+particularly
+partner
+partnership
+pasco
+passive
+past
+past year
+pastor
+patel
+pathogen
+pathogenesis
+pathogenic
+pathology
+pathway
+patricia
+patricia jannet
+pattern
+paul
+paul eugenio
+paula
+paulo
+paz
+pcr
+pcv
+pd
+pe
+peak
+pediatric
+pedro
+peer
+pena
+pena stella
+penguin
+people
+people live
+peptide
+peralta
+peralta mirko
+perceive
+percent
+percentage
+perception
+percy
+pereira
+perez
+perform
+perform use
+performance
+peri
+peri urban
+perinatal
+period
+periodontal
+peripheral
+persist
+persistence
+persistent
+person
+person year
+personal
+personnel
+perspective
+peru
+peru cross
+peru describe
+peru determine
+peru evaluate
+peru use
+peruvian
+peruvian amazon
+peruvian ande
+peruvian child
+peruvian university
+peruvian woman
+peruviana
+pet
+peter
+ph
+pharmacokinetic
+pharmacological
+pharmacy
+phase
+phenomenon
+phenotype
+phenotypic
+philip
+phone
+phosphate
+phq
+phylogenetic
+physical
+physical activity
+physician
+physiological
+piazza
+piazza ferrand
+pierre
+pig
+pilot
+pimentel
+pimentel manuela
+pinto
+place
+placebo
+plan
+planning
+plant
+plasma
+plasmodium
+plasmodium falciparum
+plasmodium vivax
+plastic
+plate
+platelet
+platform
+play
+plus
+plwh
+pm
+pneumococcal
+pneumonia
+pneumoniae
+poa
+point
+point care
+poisson
+poisson regression
+policy
+political
+pollution
+polymerase
+polymerase chain
+polymorphism
+pon
+ponce
+pool
+poor
+poorly
+porras
+porras maria
+pose
+position
+positive
+positively
+positivity
+possibility
+possible
+possibly
+post
+postoperative
+potential
+potentially
+poverty
+power
+pr
+pr ci
+practical
+practice
+pre
+precipitation
+predict
+prediction
+predictive
+predictive value
+predictor
+predominant
+predominantly
+preference
+pregnancy
+pregnant
+pregnant woman
+preliminary
+premature
+prenatal
+prep
+prepare
+preparedness
+prescribe
+prescription
+presence
+present
+presentation
+press
+pressure
+preterm
+prevalence
+prevalence ratio
+prevalent
+prevent
+prevention
+preventive
+previous
+previously
+price
+primaquine
+primarily
+primary
+primary care
+primary health
+principal
+prior
+priority
+private
+pro
+probability
+problem
+procedure
+process
+produce
+product
+production
+productivity
+professional
+profile
+prognosis
+prognostic
+program
+programme
+progress
+progression
+progressive
+project
+proliferation
+promise
+promising
+promote
+promotion
+property
+prophylaxis
+proportion
+proportional
+propose
+prospective
+prostate
+protect
+protection
+protective
+protein
+prove
+provide
+provide evidence
+provider
+province
+provision
+psychiatric
+psychiatry
+psychological
+psychosocial
+ptsd
+public
+public health
+public hospital
+public library
+publication
+publish
+publishing
+pubme
+pulmonary
+pulmonary tuberculosis
+puno
+purchase
+pylori
+pyrazinamide
+pza
+qpcr
+qualitative
+quality
+quality evidence
+quality life
+quantify
+quantitative
+question
+questionnaire
+quinolone
+quispe
+rabie
+radiation
+radical
+rafael
+raise
+ramirez
+ramos
+ramos carlos
+random
+random effect
+randomise
+randomize
+randomly
+range
+rank
+rao
+rapid
+rapidly
+rare
+rarely
+rat
+rate
+ratio
+ratio ci
+ratio confidence
+ratio pr
+raul
+ray
+rct
+reach
+reaction
+reactive
+reactivity
+read
+real
+real time
+reason
+receive
+recent
+recent year
+recently
+receptor
+recognition
+recognize
+recombinant
+recommend
+recommendation
+record
+recover
+recovery
+recruit
+recurrence
+recurrent
+red
+reduce
+reduction
+refer
+reference
+referral
+reflect
+regard
+regardless
+regimen
+region
+region peru
+regional
+register
+registry
+regression
+regression model
+regression use
+regular
+regulate
+regulation
+regulatory
+rehabilitation
+relapse
+relate
+relate quality
+related
+relation
+relationship
+relative
+relative risk
+relatively
+release
+relevance
+relevant
+reliability
+reliable
+rely
+remain
+remission
+remote
+renal
+renato
+renee
+rengifo
+rengifo gustavo
+repair
+repeat
+reporting
+represent
+representative
+reproductive
+require
+requirement
+researcher
+reservoir
+reside
+residence
+resident
+residual
+resistance
+resistant
+resistant tuberculosis
+resolution
+resolve
+resonance
+resource
+resource limited
+respect
+respectively
+respiratory
+respond
+respondent
+response
+responsible
+rest
+restrict
+restriction
+retention
+retrospective
+return
+reveal
+reviewer
+reyes
+rheumatology
+ricardo
+rich
+richard
+rif
+rifampicin
+right
+rio
+rise
+risk
+risk bias
+risk develop
+risk factor
+risk score
+river
+rivera
+rivero
+rna
+road
+rob
+robert
+robert hugh
+roberto
+robust
+rodrigo
+rodrigo martin
+rodrigue
+rodriguez
+rodriguez german
+rojas
+role
+roman
+romero
+rondan
+rondan alvaro
+room
+root
+rosa
+rosario
+rotavirus
+routine
+rp
+rr
+rr ci
+rs
+rt
+ruiz
+rural
+rural area
+rural community
+rural urban
+saavedra
+safe
+safety
+sage
+sage publication
+salas
+salazar
+salmonella
+salt
+sampling
+samuel
+san
+san marcos
+sanchez
+sandfly
+sandoval
+sandra
+sanitation
+santo
+santos
+sao
+sar
+sar cov
+sarah
+satisfaction
+saturation
+scale
+scan
+scarce
+scenario
+schedule
+school
+science
+scientific
+scope
+scopus
+score
+scott
+screen
+screening
+sd
+sdi
+se
+sea
+sea level
+search
+seas
+seas ramos
+season
+seasonal
+second
+secondary
+section
+sectional
+sectional conduct
+sectional survey
+sector
+security
+sediment
+sedimentation
+seek
+segment
+seizure
+select
+selection
+selective
+self
+self efficacy
+semi
+semi structured
+sensitive
+sensitivity
+sensitivity specificity
+separate
+sepsis
+september
+sequence
+sera
+sergio
+series
+serological
+serology
+seropositive
+seroprevalence
+serotype
+serum
+serve
+service
+session
+set
+seven
+severe
+severity
+sex
+sex age
+sex man
+sex worker
+sexual
+sexually
+sexually transmit
+shape
+share
+sheen
+sheen cortavarria
+shift
+short
+short term
+sickness
+sign
+signal
+significantly
+significantly associate
+significantly high
+significantly low
+silva
+silver
+silvia
+similar
+similarly
+simon
+simple
+simulation
+singh
+single
+site
+situation
+size
+skill
+skin
+sle
+sleep
+sleep apnea
+slow
+small
+smear
+smeeth
+smith
+smoke
+smoking
+sms
+snp
+snps
+social
+society
+society microbiology
+society tropical
+socio
+socio demographic
+socio economic
+sociodemographic
+socioeconomic
+socioeconomic status
+sodium
+software
+soil
+solid
+solium
+solution
+sonia
+sosa
+soto
+source
+south
+south africa
+south america
+south american
+southern
+sp
+space
+spanish
+spatial
+special
+specialist
+specialized
+specialty
+specie
+species
+specific
+specifically
+specificity
+specimen
+spectrum
+speed
+spend
+spending
+sperm
+spo
+spot
+spp
+spread
+springer
+springer nature
+sputum
+square
+ss
+st
+stability
+stable
+stage
+stain
+stakeholder
+standard
+standard deviation
+standardise
+standardize
+standardized
+staphylococcus
+staphylococcus aureus
+start
+state
+states
+statistic
+statistical
+statistically
+status
+stay
+stella
+stella maria
+stem
+step
+sti
+stigma
+stimulate
+stimulation
+stool
+stop
+stove
+strain
+strategy
+stratify
+strength
+strengthen
+stress
+stroke
+strong
+strongly
+strongyloide
+structural
+structure
+structured
+student
+stunt
+suarez
+sub
+subarachnoid
+subgroup
+subject
+subsequent
+subsequently
+subset
+substance
+substance use
+substantial
+substantially
+substitute
+subtype
+success
+successful
+successfully
+suffer
+sufficient
+sugar
+suggest
+suicidal
+suicidal ideation
+suitable
+summarize
+supplement
+supplementation
+supply
+support
+surface
+surgery
+surgical
+surround
+surveillance
+survey
+survival
+susana
+susceptibility
+susceptibility testing
+susceptible
+suspect
+sustain
+sustainable
+swab
+symptom
+symptomatic
+syndrome
+synthesis
+syphili
+syphilis
+system
+systemic
+systemic lupus
+systolic
+taenia
+taenia solium
+taeniasis
+tafenoquine
+tailor
+tanaka
+tapeworm
+tapia
+target
+task
+taylor
+taylor francis
+taype
+taype rondan
+tb
+tb treatment
+te
+teacher
+teaching
+team
+technical
+technique
+technology
+temperature
+temporal
+tend
+term
+test
+test use
+testing
+testosterone
+text
+text message
+tg
+th
+theme
+therapeutic
+therapy
+theresa
+theresa jean
+thickness
+think
+thirty
+thomas
+threat
+threaten
+threshold
+thyroid
+time
+timely
+tissue
+titer
+tobacco
+tolerance
+tomography
+tool
+tooth
+topic
+torre
+total
+toxicity
+tract
+traditional
+traffic
+train
+training
+trait
+trajectory
+transcript
+transfer
+transgender
+transgender woman
+transition
+transmission
+transmit
+transmit infection
+transport
+trauma
+traumatic
+travel
+traveler
+treat
+treatment
+treatment failure
+tree
+treg
+trend
+trigger
+tropical
+tropical medicine
+trypanosoma
+trypanosoma cruzi
+tsp
+tuberculosis
+tuberculosis tb
+tumbe
+tumor
+tw
+twice
+type
+type diabete
+ugarte
+ugarte gil
+ulcer
+ultrasound
+uncertainty
+unclear
+undergo
+underlie
+understand
+understanding
+undertake
+unique
+unit
+united
+united states
+universal
+university
+university press
+university san
+unknown
+untreated
+update
+upper
+uptake
+upwelling
+urban
+urban area
+urban migrant
+urban rural
+urbanization
+urgent
+urinary
+urine
+usa
+use
+use assess
+use datum
+useful
+user
+usually
+utility
+utilize
+vaccination
+vaccine
+valde
+valdivia
+valencia
+valerie
+validate
+validation
+validity
+valuable
+value
+van
+vanessa
+vargas
+variability
+variable
+variance
+variant
+variation
+variety
+vary
+vascular
+vasquez
+vector
+vega
+velarde
+velarde fabiola
+velasquez
+venom
+ventilation
+ventricular
+verastegui
+verastegui pimentel
+veronica
+version
+versus
+veterinary
+veterinary medicine
+viable
+viannia
+victor
+victoria
+video
+view
+vilela
+vilela dionicia
+villa
+villafuerte
+villafuerte francisco
+village
+vilma
+vinetz
+vinetz joseph
+violence
+viral
+virtual
+virulence
+virus
+visit
+visual
+vital
+vitro
+vivax
+vivax infection
+vivax malaria
+vivo
+volume
+volunteer
+vs
+vulnerability
+vulnerable
+waist
+walk
+wall
+walter
+wang
+warrant
+water
+way
+weak
+wealth
+web
+web science
+week
+weight
+western
+white
+wide
+widely
+widespread
+wild
+wiley
+william
+williams
+wind
+wolter
+wolter kluwer
+woman
+woman man
+wong
+woodell
+woodell theresa
+work
+worker
+working
+world
+world health
+world mental
+worldwide
+wu
+xpert
+xu
+yang
+year
+year age
+year old
+year year
+yield
+young
+zariquiey
+zariquiey armando
+zegarra
+zelada
+zhang
+zhao
+zika
+zimic
+zimic peralta
+zone
+zoonotic
