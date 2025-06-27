@@ -12,7 +12,7 @@ from pathlib import Path
 ROOT    = Path(__file__).resolve().parents[1]   # = …/TextMineML
 SCRIPTS = ROOT / "scripts"
 RESULTS = ROOT / "results"
-TABLE   = ROOT / "results/tables/articulos_preprocessed_final_sin_scientific_stop_words.csv"
+TABLE   = ROOT / "results/tables/articulos_preprocessed_final.csv"
 
 MODES = {
     "basic": {
