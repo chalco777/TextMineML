@@ -2,7 +2,7 @@
   {
     "method": "tfidf",
     "algo": "kmeans4",
-    "inertia": 4748.984383277771,
+    "inertia": 4748.98438327777,
     "silhouette": 0.015808710797558207,
     "db_score": 9.034463853380675
   },
@@ -16,7 +16,7 @@
   {
     "method": "tfidf",
     "algo": "kmeans6",
-    "inertia": 4709.574307829393,
+    "inertia": 4709.574307829392,
     "silhouette": 0.01944685433251411,
     "db_score": 8.664945584947718
   },
@@ -30,7 +30,7 @@
   {
     "method": "tfidf",
     "algo": "kmeans8",
-    "inertia": 4678.41050801848,
+    "inertia": 4678.410508018481,
     "silhouette": 0.022696324870840355,
     "db_score": 7.964045122924702
   },
@@ -75,6 +75,13 @@
     "silhouette": -0.04507190054971815,
     "db_score": 3.2057759207153564,
     "n_noise": 2203
+  },
+  {
+    "method": "tfidf",
+    "algo": "hdbscan",
+    "silhouette": 0.0023870724833871104,
+    "db_score": 17.2972371476754,
+    "n_noise": 973
   },
   {
     "method": "w2v",
@@ -154,6 +161,13 @@
     "n_noise": 0
   },
   {
+    "method": "w2v",
+    "algo": "hdbscan",
+    "silhouette": -0.13975036144256592,
+    "db_score": 6.081036335912134,
+    "n_noise": 4141
+  },
+  {
     "method": "sbert",
     "algo": "kmeans4",
     "inertia": 3194.22900390625,
@@ -170,7 +184,7 @@
   {
     "method": "sbert",
     "algo": "kmeans6",
-    "inertia": 3067.0576171875,
+    "inertia": 3067.057861328125,
     "silhouette": 0.07799426466226578,
     "db_score": 3.6127769526332334
   },
@@ -191,7 +205,7 @@
   {
     "method": "sbert",
     "algo": "kmeans9",
-    "inertia": 2940.8955078125,
+    "inertia": 2940.895263671875,
     "silhouette": 0.07737849652767181,
     "db_score": 3.560432815343096
   },
@@ -229,5 +243,12 @@
     "silhouette": null,
     "db_score": null,
     "n_noise": 5
+  },
+  {
+    "method": "sbert",
+    "algo": "hdbscan",
+    "silhouette": -0.23846915364265442,
+    "db_score": 1.8942959919822733,
+    "n_noise": 3826
   }
 ]
