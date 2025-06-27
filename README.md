@@ -5,8 +5,9 @@ Este proyecto implementa un pipeline de minería de texto usando artículos acad
 ## 🔁 Flujo de trabajo actual
 
 1. **Recolección y preprocesamiento**
-   - Se extraen artículos mediante web scraping (https://repositorio.upch.edu.pe). El código está en `01_Translations_y_scraping.ipynb`
-   - Los textos se limpian (minúsculas, eliminación de signos de puntuación, stopwords, etc.) con `02_preprocess.py`.
+   - Se extraen artículos mediante web scraping (https://repositorio.upch.edu.pe). El código está en `01_Translation_y_scraping.ipynb`
+   - Se traducen manualmente textos en alemán identificando aquellos que no se tradujeron bien con `02.find_no_translated.ipynb`
+   - Los textos se limpian (minúsculas, eliminación de signos de puntuación, stopwords, etc.) con `03_preprocesamiento_con_lematizacion.py`.
    - Los resultados se guardan en `results/tables/`.
 
 2. **Vectorización**
