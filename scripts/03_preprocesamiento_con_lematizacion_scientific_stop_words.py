@@ -70,7 +70,7 @@ df_final = df[["title_processed", "abstract_processed", "publisher_processed", "
 df_final = df_final.drop_duplicates().reset_index(drop=True)
 
 # Guardar el resultado
-Path("results").mkdir(exist_ok=True)
-df_final.to_csv("results/" + OUTPUT_CSV, index=False, sep=";", encoding="utf-8")
+#Path("results").mkdir(exist_ok=True)
+df_final.to_csv(OUTPUT_CSV, index=False, sep=";", encoding="utf-8")
 
 print(f"Preprocesamiento completo. Archivo guardado en 'results/{OUTPUT_CSV}' con {len(df_final)} filas.")
